@@ -19,16 +19,16 @@ const PRECACHE_URLS = [
     // html file
     'index.html',
     // html manifest pointer
-    'analog_clock.html?homescreen=1',
+    'index.html?homescreen=1',
     '?homescreen=1',
     // css file
-    'styles/analog_clock.min.css',
+    'index.min.css',
     // vue file if you are using vue in your site
-    'functions/analog_clock.js',
+    'index.js',
     // javascript filter
-    'functions/analog_clock.js',
+    'index.js',
     // manifest file
-    'functions/manifest.json',
+    'manifest.json',
     // assets
     'assets/512x512.png',
     'assets/favicon.ico'
