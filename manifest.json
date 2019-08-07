@@ -1,16 +1,14 @@
 {
-    "name": "ANADIGY",
-    "short_name": "ANADIGY",
-    "icons": [
-        {
-            "src": "./icon.jpg",
-            "sizes": "512x512",
-            "type": "image/jpg"
-        }
-    ],
+    "name": "ANODIGY",
+    "short_name": "ANODIGY",
+    "icons": [{
+        "src": "./icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
     "start_url": "./index.html?homescreen=1",
     "display": "standalone",
-    "orientation": "portrait",
+    "orientation": "auto",
     "background_color": "#1A252A",
     "theme_color": "#1A252A"
 }
